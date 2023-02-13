@@ -18,7 +18,7 @@ jobs:
     - name: Install Python
       run: |
         sudo apt update && \ 
-        sudo apt install python3.7.6
+        sudo apt install python3
       
     - name: requirements
       run: |
